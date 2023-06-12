@@ -15,4 +15,5 @@ Enjoy your holiday!
 
 # List of Hobby
 1. Go out with friends
+2. Drawing picture
 
